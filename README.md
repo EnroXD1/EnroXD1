@@ -154,15 +154,8 @@ mindmap
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EnroXD1&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnroXD1&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=EnroXD1&theme=github-dark-blue&hide_border=true" />
+<img width="48%" src="./profile/stats.svg" alt="GitHub Statistics" />
+<img width="48%" src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
@@ -172,7 +165,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnroXD1&theme=github-compact&hide_border=true&area=true" width="100%" />
+<img src="./profile/activity.svg" alt="Contribution Activity" width="100%" />
 
 </div>
 
