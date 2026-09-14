@@ -1,7 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="430" height="180" viewBox="0 0 430 180">
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="180" viewBox="0 0 430 180" role="img">
+<style>
+text { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; }
+.title { fill:#f0f6fc; font-size:18px; font-weight:700; }
+.label { fill:#8b949e; font-size:13px; }
+.value { fill:#f0f6fc; font-size:22px; font-weight:700; }
+.small { fill:#8b949e; font-size:11px; }
+</style>
 <rect x="0.5" y="0.5" width="429" height="179" rx="10" fill="#0d1117" stroke="#30363d"/>
-<text x="24" y="36" fill="#f0f6fc" font-size="18" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Top Languages</text>
-<rect x="24" y="48" width="72" height="3" rx="1.5" fill="#00BDF1"/>
-<rect x="98" y="48" width="26" height="3" rx="1.5" fill="#FE4408"/>
-<text x="24" y="100" fill="#8b949e" font-size="13" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Waiting for the first GitHub Actions update…</text>
+<text x="24" y="34" class="title">Top Languages</text>
+<rect x="24" y="47" width="72" height="3" rx="1.5" fill="#00BDF1"/>
+<rect x="98" y="47" width="26" height="3" rx="1.5" fill="#FE4408"/>
+<rect x="24.0" y="66" width="316.3" height="10" fill="#00BDF1"/>
+<rect x="340.3" y="66" width="31.3" height="10" fill="#FE4408"/>
+<rect x="371.7" y="66" width="17.9" height="10" fill="#58a6ff"/>
+<rect x="389.6" y="66" width="16.2" height="10" fill="#a371f7"/>
+<rect x="405.8" y="66" width="1.0" height="10" fill="#3fb950"/>
+<circle cx="29" cy="99" r="5" fill="#00BDF1"/>
+<text x="41" y="103" class="label">Python 82.8%</text>
+<circle cx="234" cy="99" r="5" fill="#FE4408"/>
+<text x="246" y="103" class="label">HTML 8.2%</text>
+<circle cx="29" cy="123" r="5" fill="#58a6ff"/>
+<text x="41" y="127" class="label">JavaScript 4.7%</text>
+<circle cx="234" cy="123" r="5" fill="#a371f7"/>
+<text x="246" y="127" class="label">CSS 4.2%</text>
+<circle cx="29" cy="147" r="5" fill="#3fb950"/>
+<text x="41" y="151" class="label">Dockerfile 0.0%</text>
 </svg>
