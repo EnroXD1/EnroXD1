@@ -10,22 +10,22 @@ text { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,
 <text x="24" y="34" class="title">Top Languages</text>
 <rect x="24" y="47" width="72" height="3" rx="1.5" fill="#00BDF1"/>
 <rect x="98" y="47" width="26" height="3" rx="1.5" fill="#FE4408"/>
-<rect x="24.0" y="66" width="310.4" height="10" fill="#00BDF1"/>
-<rect x="334.4" y="66" width="19.4" height="10" fill="#FE4408"/>
-<rect x="353.8" y="66" width="18.2" height="10" fill="#58a6ff"/>
-<rect x="372.0" y="66" width="14.5" height="10" fill="#a371f7"/>
-<rect x="386.4" y="66" width="10.6" height="10" fill="#3fb950"/>
-<rect x="397.0" y="66" width="9.0" height="10" fill="#d29922"/>
+<rect x="24.0" y="66" width="300.4" height="10" fill="#00BDF1"/>
+<rect x="324.4" y="66" width="20.2" height="10" fill="#FE4408"/>
+<rect x="344.7" y="66" width="17.6" height="10" fill="#58a6ff"/>
+<rect x="362.3" y="66" width="16.5" height="10" fill="#a371f7"/>
+<rect x="378.7" y="66" width="14.2" height="10" fill="#3fb950"/>
+<rect x="392.9" y="66" width="13.1" height="10" fill="#d29922"/>
 <circle cx="29" cy="99" r="5" fill="#00BDF1"/>
-<text x="41" y="103" class="label">Python 81.2%</text>
+<text x="41" y="103" class="label">Python 78.6%</text>
 <circle cx="234" cy="99" r="5" fill="#FE4408"/>
-<text x="246" y="103" class="label">HTML 5.1%</text>
+<text x="246" y="103" class="label">Kotlin 5.3%</text>
 <circle cx="29" cy="123" r="5" fill="#58a6ff"/>
-<text x="41" y="127" class="label">JavaScript 4.8%</text>
+<text x="41" y="127" class="label">HTML 4.6%</text>
 <circle cx="234" cy="123" r="5" fill="#a371f7"/>
-<text x="246" y="127" class="label">TypeScript 3.8%</text>
+<text x="246" y="127" class="label">JavaScript 4.3%</text>
 <circle cx="29" cy="147" r="5" fill="#3fb950"/>
-<text x="41" y="151" class="label">PowerShell 2.8%</text>
+<text x="41" y="151" class="label">PowerShell 3.7%</text>
 <circle cx="234" cy="147" r="5" fill="#d29922"/>
-<text x="246" y="151" class="label">CSS 2.3%</text>
+<text x="246" y="151" class="label">TypeScript 3.4%</text>
 </svg>
